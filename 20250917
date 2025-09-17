@@ -1,0 +1,16 @@
+print("我叫陈恩娴，今年18岁"+"来自安徽安庆")
+print("我喜欢美食和看书","最喜欢的蔬菜是土豆")
+
+name="老王"
+print(name)
+
+
+name,age,height="老王",40,185
+print(name)
+print(age)
+print(height)
+
+m,n=1,7
+print(m,n)
+m,n=n,m
+print(m,n)
