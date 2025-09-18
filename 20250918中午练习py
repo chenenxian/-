@@ -1,0 +1,14 @@
+myname="陈恩娴"
+myage=18
+mysex="女"
+print(myname)
+print(myage)
+print(mysex)
+I=myname,myage,mysex
+print(I)
+
+
+shuzi="""1，2。3，4。
+1，2。3，4。
+"""
+print(shuzi)
