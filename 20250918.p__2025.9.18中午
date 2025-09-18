@@ -1,0 +1,30 @@
+name="老王"
+do=name+"去串门"
+print(do)
+print(type(name))
+
+#整数类型 int
+age=18
+print(type(age))
+print(age)
+
+
+#浮点数类型 float
+pi=3.14
+print(type(pi))
+print(pi)
+#e表示幂，e3表示10的3次方
+print(3.14e3)
+
+#布尔类型bool(True/False)
+
+
+#字符串类型str
+x="hello world"
+y='娴'
+print(type(x))
+print( x)
+print(type(y))
+print( y)
+
+print("老王去串门\n"*3)
