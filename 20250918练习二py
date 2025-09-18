@@ -1,0 +1,10 @@
+#汇率转换器
+meiyuan=float(input("请输入美元金额："))
+rmb=meiyuan*7.0957
+print(meiyuan,"美元","=",rmb,"元")
+
+
+number_of_confirmed= int(input("请输入确诊人数:"))
+number_of_cured= int(input("请输入治愈人数:"))
+bili=number_of_cured/number_of_confirmed
+print("治愈比例为",bili*100,"%",sep="")
